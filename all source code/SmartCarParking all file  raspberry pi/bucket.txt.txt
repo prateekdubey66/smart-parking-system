@@ -1,0 +1,7 @@
+https://smart-car-parking-system-5d2a7-default-rtdb.firebaseio.com/
+
+==========database
+
+
+gs://smart-car-parking-system-5d2a7.appspot.com/
+===========bucket
